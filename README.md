@@ -63,6 +63,28 @@
   <li>Every applied gate is stored in a <b>real-time updating circuit log</b></li>
 </ul>
 
+<h3>Multi-Language Support</h3>
+<p>
+  The application supports <b>15 languages</b> with full translation of the entire interface:
+</p>
+<ul>
+  <li>English</li>
+  <li>Indonesian</li>
+  <li>Spanish</li>
+  <li>Mandarin Chinese</li>
+  <li>Arabic</li>
+  <li>French</li>
+  <li>Japanese</li>
+  <li>Korean</li>
+  <li>German</li>
+  <li>Portuguese</li>
+  <li>Russian</li>
+  <li>Hindi</li>
+  <li>Turkish</li>
+  <li>Italian</li>
+  <li>Vietnamese</li>
+</ul>
+
 <hr>
 
 <h2> Visualization Example</h2>
