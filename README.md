@@ -139,14 +139,6 @@ streamlit run main.py
 <h2> License</h2>
 <p>This project is licensed under the <b>MIT License</b> — feel free to use and modify with credit.</p>
 
-<hr>
 
-<h2> Hashtags</h2>
-<p>
-  #QuantumComputing #MiniQuantumLab #Streamlit #QuantumSimulator <br>
-  #QuantumGateVisualizer #PythonAI #NumPy #Matplotlib #QubitSimulation
-</p>
-
-<hr>
 
 <h3 align="center">👨‍💻 Created by🫰🫰 <a href="https://github.com/rasidi3112" target="_blank">Rasidi</a></h3>
