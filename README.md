@@ -48,7 +48,7 @@
 
 <h3> Measurement Simulation</h3>
 <ul>
-  <li>Perform <b>quantum measurements</b> with configurable shots (100–10,000)</li>
+  <li>Perform <b>quantum measurements</b> with configurable shots (100-10,000)</li>
   <li>Observe <b>probability distributions</b> and <b>measurement histograms</b></li>
 </ul>
 
@@ -137,7 +137,7 @@ streamlit run main.py
 <hr>
 
 <h2> License</h2>
-<p>This project is licensed under the <b>MIT License</b> — feel free to use and modify with credit.</p>
+<p>This project is licensed under the <b>MIT License</b> - feel free to use and modify with credit.</p>
 
 
 
